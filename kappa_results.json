@@ -1,0 +1,22 @@
+{
+  "isolated_query_correct": {
+    "kappa": 1.0,
+    "agreement": 1.0,
+    "n": 111
+  },
+  "spontaneous_correction": {
+    "kappa": NaN,
+    "agreement": 1.0,
+    "n": 111
+  },
+  "abstain": {
+    "kappa": 1.0,
+    "agreement": 1.0,
+    "n": 222
+  },
+  "n_downstream_failing (dichotomized >0 vs =0)": {
+    "kappa": 0.9377686413754438,
+    "agreement": 0.96996996996997,
+    "n": 333
+  }
+}

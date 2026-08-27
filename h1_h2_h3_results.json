@@ -1,0 +1,30 @@
+{
+  "H1": {
+    "pairs": 90,
+    "rate_before": 0.9333333333333333,
+    "rate_after": 0.4666666666666667,
+    "reduction_points": 46.666666666666664,
+    "p_value": 1.312585595769633e-10,
+    "q_value": 2.625171191539266e-10,
+    "meets_20pt_threshold": true,
+    "significant_after_bh": true
+  },
+  "H2": {
+    "n_items": 45,
+    "isolated_correct": 1,
+    "rate": 0.022222222222222223,
+    "wilson_ci": [
+      0.003933598882833421,
+      0.1156668176841488
+    ]
+  },
+  "H3": {
+    "elim_B": 48,
+    "n_B": 90,
+    "elim_D": 58,
+    "n_D": 90,
+    "p_value": 0.12981231328860826,
+    "q_value": 0.12981231328860826,
+    "significant_after_bh": false
+  }
+}
