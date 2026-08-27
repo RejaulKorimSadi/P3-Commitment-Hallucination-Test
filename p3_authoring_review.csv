@@ -1,0 +1,149 @@
+idx,item_id,model,status,gold,divergence_char,committed_wrong,wrong_continuation,question
+0,sq1,openai/gpt-oss-120b,AUTHORED,Juan de la Cruz Gómez Plata,88,"**General José María Gómez Plata**, a Colombian military lea",Bishop Mariano Ospina Plata,"Who is the municipality of Gómez Plata, Antioquia, Colombia, named after?"
+1,sq1,allam-2-7b,AUTHORED,Juan de la Cruz Gómez Plata,71,José María de Gómez. José María de Gómez was a Colombian mil,Manuel Antonio Gomez Plata,"Who is the municipality of Gómez Plata, Antioquia, Colombia, named after?"
+2,sq1,qwen/qwen3.6-27b,AUTHORED,Juan de la Cruz Gómez Plata,47,"**José María Gómez Plata** (1840–1915), a Colombian military",José María Gómez Plata,"Who is the municipality of Gómez Plata, Antioquia, Colombia, named after?"
+3,sq10,allam-2-7b,AUTHORED,Donald M. Gray,56,Dr. Robert H. Batchelor. The John Tuzo Wilson Medal is award,Dr. James A. Van Allen,Who was the recipient of the John Tuzo Wilson Medal in 2000?
+4,sq100,allam-2-7b,AUTHORED,Kanger.,46,"""tandoor"". A tandoor is a traditional round, clay oven that ",tandoor,What is the name of the pot woven around with wicker and filled with hot embers?
+5,sq100,qwen/qwen3.6-27b,AUTHORED,Kanger.,23,**kangri** (also spelled **kangri**). It is a traditional he,chirâ,What is the name of the pot woven around with wicker and filled with hot embers?
+6,sq103,allam-2-7b,AUTHORED,8 May 2012,74,"September 21, 2018. This discussion took place with Jim Al-K",14 November 2011,"On what day, month, and year did James Lovelock appear on the Radio Four series ""The Life Scientific,"" talking to Jim Al-Khalili about the Gaia hypothesis?"
+7,sq104,qwen/qwen3.6-27b,AUTHORED,1997,70,"**1992**. (She has only been awarded this prize once, making",1992,In what year did Pipilotti Rist receive the 'Renta Preis of the Kunsthalle Nürnberg' for the first time?
+8,sq107,allam-2-7b,AUTHORED,In Relation in Space,47,"""Rhythm 0"" (Rytm 0), which was performed by Marina Abramović",Rhythm 0,What is the name of the performance Marina Abramović and Uwe Laysiepen performed in 1976?
+9,sq108,allam-2-7b,AUTHORED,1978,33,the reelection campaign of Michael Dukakis in 1984. He serve,1984,Which year was Leonard P. Zakim involved in the reelection campaign of Michael Dukakis?
+10,sq109,allam-2-7b,AUTHORED,1962,47,1953. He is a sociologist and economist known for his contri,1966,Which year did Herbert Gintis receive his master's degree?
+11,sq11,allam-2-7b,AUTHORED,Breng Valley,53,Gulmarg. It is a picturesque valley located in the Indian st,Lidder Valley,"Which valley is known as the ""Golden Crown of Kashmir""?"
+12,sq114,allam-2-7b,AUTHORED,1904,157,1879. ,1922,"In which year was the town of Babanango, in the KwaZulu-Natal province of South Africa, founded?"
+13,sq116,allam-2-7b,AUTHORED,"Season 2, Episode 8 ""Cooperative Calligraphy""",58,"""Contemporary Christmas,"" which is from Season 3, Episode 7.",Contemporary Christmas,"In which episode of Community does Shirley Bennett say, ""The Bible doesn't recognize divorce, Britta! When you marry a man, he's your man!""?"
+14,sq117,allam-2-7b,AUTHORED,1810 to 1825,75,1940s to the 1960s. She was born in 1887 and passed away in ,1795 to 1815,"From what year to what year was Mary Ann Willson, an American folk artist, active?"
+15,sq119,qwen/qwen3.6-27b,AUTHORED,"""Baker Street"" by Gerry Rafferty",84,"**""The Passenger"" by Iggy Pop** (the original 1977 version).",The Passenger by Iggy Pop,"What song is playing at the beginning of ""Full Leather Jacket"" of The Sopranos?"
+16,sq12,allam-2-7b,AUTHORED,"2,067",156,"2,021. It is recommended to check the latest census data whe","1,988","In the 2021 census, what was the population of Townview, a suburb in the City of Mount Isa, Australia?"
+17,sq120,qwen/qwen3.6-27b,AUTHORED,26 February 1952,137,"**November 5, 1940**.","November 5, 1940","On what day, month, and year did the physicist and chemist Katharine Burr Blodgett issue the U.S. patent for ""Step Gauge for Measuring Thickness of Thin Films""?"
+18,sq122,allam-2-7b,AUTHORED,Roza Yulievna Fleishmann,140,Dina Manford. Dina Manford was an English actress and a memb,Klara Zetkin,What is the name of Communist politician Georgi Dimitrov's second wife?
+19,sq125,openai/gpt-oss-120b,AUTHORED,Kyarorina,92,"**“Mick.”**  
+
+- **Who:** Mick (a 31‑year‑old player from th",Nick,Who was the first person to catch 1 million Pokémon in Pokémon Go?
+20,sq126,allam-2-7b,AUTHORED,Circle Yearbook,85,"""The Challenge."" In this game, the contestants are divided i",The Challenge,"What was the title of the game played in Episode 11 of Season 3 of the American version of ""The Circle""?"
+21,sq128,allam-2-7b,AUTHORED,Zanele Muholi: Only Half The Picture,106,"""Faces & Phases,"" is a book that features portraits of South",Faces & Phases,What is the full title of Zanele Muholi's first publication?
+22,sq129,allam-2-7b,AUTHORED,"Season 3, Episode 6",189,"""Walpurgis."" ","Nocturne, in Season 2, Episode 4",In which season and episode of Peaky Blinders do Tommy and Alfie discuss crossing the line?
+23,sq129,qwen/qwen3.6-27b,AUTHORED,"Season 3, Episode 6",21,"**Season 2, Episode 6** (""The King of the Slums""). It featur","Season 2, Episode 6",In which season and episode of Peaky Blinders do Tommy and Alfie discuss crossing the line?
+24,sq13,allam-2-7b,AUTHORED,Henry,43,Sir Stafford Cripps. Sir Stafford was a British politician w,Godfrey,"What was the first name of the man who, in 1925, married Mavis Tate, a former British Conservative politician?"
+25,sq134,allam-2-7b,AUTHORED,Peter Franaszek,95,Leslie Lamport. Lamport is known for his significant contrib,Nancy Lynch,Who won the Paris Kanellakis Theory and Practice Award in 2002?
+26,sq134,qwen/qwen3.6-27b,AUTHORED,Peter Franaszek,71,"**Ronald L. Rivest, Adi Shamir, and Leonard M. Adleman** for","Ronald L. Rivest, Adi Shamir, and Leonard M. Adleman",Who won the Paris Kanellakis Theory and Practice Award in 2002?
+27,sq135,allam-2-7b,AUTHORED,43,436,"left the country and moved to Ireland, where she lived under",was on the run for roughly 65 days,How many days was Kaitlin Armstrong on the run from authorities for killing Moriah Wilson?
+28,sq138,openai/gpt-oss-120b,AUTHORED,10.1515/cog-2017-0069,140,**10.1515/jgl.2005.0001**,10.1093/jos/ffm012,What's the DOI of the paper 'Towards an Explanation of the Syntax of West Germanic Particle Verbs: A Cognitive-Pragmatic View' by Thomas Berg?
+29,sq14,allam-2-7b,AUTHORED,August 2020,124,2012. These bacteria were sent to space on the STS-127 missi,March 2017,"What were the month and year when scientists reported that bacteria from Earth, particularly Deinococcus radiodurans bacteria, which is highly resistant to environmental hazards, were found to survive for three years in outer space?"
+30,sq143,allam-2-7b,AUTHORED,Stan Bliss,110,Jack Darragh when they won the Memorial Cup in 1922. Jack Da,Bill Hewitt,Who coached the Fort William War Veterans hockey team when they won the Memorial Cup in 1922?
+31,sq145,openai/gpt-oss-120b,AUTHORED,Charlie Brooker,126,**Neil Druckmann** (with co‑writer **Craig Mazin**) for the ,Cara Ellison,Who was the first recipient of the Nebula Award for Best Game Writing?
+32,sq146,allam-2-7b,AUTHORED,0.012%,172,"undergoes rapid radioactive decay, converting almost entirel",0.048%,What is the percentage of the natural occurrence of the stable tantalum isotope 180m?
+33,sq149,qwen/qwen3.6-27b,AUTHORED,Stoke Ladies,4,"**Dick, Kerr Ladies** (later known as Preston North End Ladi","Dick, Kerr Ladies",Which football team won the first and only ELFA Challenge Cup competition in 1922?
+34,sq15,qwen/qwen3.6-27b,AUTHORED,10.1515/zfs-2021-2039,26,"**10.1349/PS1.13.1.1**
+
+**Full citation for reference:**
+Him",10.1349/PS1.13.1.1,"Give me the DOI of the paper ""New avenues and challenges in semantic map research."""
+35,sq150,allam-2-7b,AUTHORED,Eisenhower,87,President Bill Clinton. Adams was the former president of Ph,President Lyndon B. Johnson,"What is the surname of the U.S. President who attended the 66th birthday of Kenneth Stanley ""Boots"" Adams, former president of Phillips Petroleum Company?"
+36,sq153,allam-2-7b,AUTHORED,Leslie Wigglesworth,106,"Sue Wigglesworth, became the president of the Elim Pentecost",Alice Wigglesworth,Which of Smith Wigglesworth's grandchildren became the president of Elim Pentecostal Church?
+37,sq154,openai/gpt-oss-120b,AUTHORED,Takumi Minamino,75,**Diogo Jota**. He netted five goals in the competition (two,Mohamed Salah,What Liverpool player scored the most goals in the 2021-2022 season of the FA Cup?
+38,sq154,allam-2-7b,AUTHORED,Takumi Minamino,56,Mo Salah was the highest goal scorer. He scored a total of 7,Sadio Mane was the highest goal scorer,What Liverpool player scored the most goals in the 2021-2022 season of the FA Cup?
+39,sq158,openai/gpt-oss-120b,AUTHORED,200.00,132,"**0 runs off 0 balls**. Because he faced no deliveries, a st",12 runs off 6 balls,What was the strike rate of Harbhajan Singh in the final match of IPL 2015?
+40,sq16,allam-2-7b,AUTHORED,Rafoogar baithak,79,"""Rafoogari Revival and Skill Development Project."" This proj",Darning Heritage Mission,Name the initiative launched in favor of the dying craft of Rafoogari.
+41,sq160,allam-2-7b,AUTHORED,105 days,79,"November 25, 1972, to December 10, 1972. To find the number ","17 June 1966, to 8 September 1966",What was the length of Amal Kumar Sarkar's tenure as Chief Justice of India in days?
+42,sq163,allam-2-7b,AUTHORED,Nikolai Christian Grove Prebensen,49,Carl I. Hagen. His full name is Carl Ignatius Hagen. He serv,Bjornstjerne Bjornson,What is the full name and surname of the Norwegian politician who served as the County Governor of Finnmark from 1889 to 1894?
+43,sq165,allam-2-7b,AUTHORED,Ashley Payne,72,"Jonathan Goldsmith. He achieved this time of 2 hours, 58 min",Timothy Rogers,"Who holds the record for the fastest marathon dressed as an elf (male), with a time of 2 hours, 58 minutes, and 16 seconds, achieved at the 2017 Virgin Money London Marathon in London, UK, on April 23, 2017?"
+44,sq168,openai/gpt-oss-120b,AUTHORED,Yaama Mosque,21,"**Mausoleum of the Sufi Saint in Niamey, Niger**. It was the",Great Mosque of Agadez,Which building in the Republic of Niger won the 1986 Aga Khan Award for Architecture?
+45,sq168,allam-2-7b,AUTHORED,Yaama Mosque,95,"""Maliha Mosque"" (also known as the ""Mosquée de Maliha"") in t",Maliha Mosque,Which building in the Republic of Niger won the 1986 Aga Khan Award for Architecture?
+46,sq171,allam-2-7b,AUTHORED,"June 11, 1993",97,"October 24, 1998. The ""Bruno Kreisky"" prize is named after t","March 3, 1996","On what day, month, and year did Chief Gani Fawehinmi win the ‘Bruno Kreisky’ award from the Government of Austria?"
+47,sq172,qwen/qwen3.6-27b,AUTHORED,Pacific Ocean,44,"**Atlantic Ocean**. ""Oceana"" is a historical and literary na",Atlantic Ocean,Which specific ocean was the asteroid 224 Oceana named after?
+48,sq173,allam-2-7b,AUTHORED,Rutta Qila,42,"""Muzaffarabad Fortress"" or ""Muzaffarabad Lal Qila"" in the Ur",Muzaffarabad Lal Qila,What is the Muzaffarabad Fort locally known as?
+49,sq174,allam-2-7b,AUTHORED,"""Foolishness, Dante. Foolishness. Might controls everything. And without strength you can not protect anything. Let alone yourself.""",172,"""You've grown stronger, but so have we.""
+
+Dante: ""You're rig","""You've grown stronger, but strength alone means nothing.""",What did Vergil say to Dante in DMC 3 after stabbing him with the Yamato in their first fight?
+50,sq174,qwen/qwen3.6-27b,AUTHORED,"""Foolishness, Dante. Foolishness. Might controls everything. And without strength you can not protect anything. Let alone yourself.""",94,"**""You lack power.""**
+
+He then sheathes the Yamato and walks",You lack power,What did Vergil say to Dante in DMC 3 after stabbing him with the Yamato in their first fight?
+51,sq175,allam-2-7b,AUTHORED,Hilda.,62,"María del Carmen Caffarelli López de Stefanis. Therefore, th",Alba Esther,What was the first name of the mother of the Argentine mathematician Luis Caffarelli?
+52,sq178,allam-2-7b,AUTHORED,Andrea Rotnitzky,70,He is an Argentine-French statistician and professor at the ,The recipient was Mauricio Velasco,Which Argentine national received the Rousseeuw Prize for Statistics in 2022?
+53,sq180,openai/gpt-oss-120b,AUTHORED,"Ahmadi C. J., Kuldip Singh, B. P. Jeevan Reddy, N. P. Singh, and S. Saghir Ahmad.",188,"
+
+1. **Justice S. R. Bhat**  
+2. **Justice R. C. Lahoti**  
+"," M. N. Rao, S. B. Sinha, K. G. Balakrishnan, R. V. Raveendran, and P. K. Bose","Who are the five judges of the Supreme Court who restored the awards and delivered a judgment that the ""Bharat Ratna and Padma awards are not titles under Article 18 of the Constitution of India?"""
+54,sq180,allam-2-7b,AUTHORED,"Ahmadi C. J., Kuldip Singh, B. P. Jeevan Reddy, N. P. Singh, and S. Saghir Ahmad.",173,"Justice A.K. Patnaik
+2. Justice Swatanter Kumar
+3. Justice A",Justice K.T. Thomas,"Who are the five judges of the Supreme Court who restored the awards and delivered a judgment that the ""Bharat Ratna and Padma awards are not titles under Article 18 of the Constitution of India?"""
+55,sq180,qwen/qwen3.6-27b,AUTHORED,"Ahmadi C. J., Kuldip Singh, B. P. Jeevan Reddy, N. P. Singh, and S. Saghir Ahmad.",100,"**Balaji Raghavan v. Union of India**, upholding the constit",Indira Sawhney v. Union of India,"Who are the five judges of the Supreme Court who restored the awards and delivered a judgment that the ""Bharat Ratna and Padma awards are not titles under Article 18 of the Constitution of India?"""
+56,sq181,allam-2-7b,AUTHORED,1270 mm,171,1250 millimeters (49.2 inches). It is always a good idea to ,1310 millimeters,What is the wheelbase of the Honda CL125 in millimeters?
+57,sq185,allam-2-7b,AUTHORED,Alexei Kosygin,96,Nikita Khrushchev. He held the position of Premier from 1953,Leonid Brezhnev,Who is known to be the longest-serving premier in the history of the USSR?
+58,sq187,allam-2-7b,AUTHORED,Eleven,77,two separate periods. His first stint as Prime Minister bega,seven years,For how many years did Bakshi Ghulam Mohammad serve Jammu and Kashmir as Prime Minister?
+59,sq191,allam-2-7b,AUTHORED,April 2024,103,July 2021. This decrease from the peak of 72.38% in November,September 2022,As of which month and year did StatCounter estimate that Chrome has a 65% worldwide browser market share (after peaking at 72.38% in November 2018) on personal computers?
+60,sq193,allam-2-7b,AUTHORED,"Season 5, episode 15",93,"fifth season, episode 7, titled ""Face Off,"" and continues in","Season 4, episode 11","What is the season number and episode number of the scene in Breaking Bad where Walt's son wishes him dead, when he stops at the local bar and pays a barmaid to call Walter White Jr.'s school pretending to be Marie?"
+61,sq197,allam-2-7b,AUTHORED,Eat Me,59,"""Liga da Justiça (League of Justice)"". It is a Brazilian doc",Liga da Justiça,What is the name of the seminal film that Lygia Pape made in 1975?
+62,sq198,allam-2-7b,AUTHORED,Roberto Vázquez García,113,Miguel Alejandro Ramírez Martínez. He received the degree in,Carlos Alberto Torres Fernandez,What is the full name of the first person to be awarded a Ph.D. in Mathematics from the Universidad Nacional Autónoma de México?
+63,sq200,openai/gpt-oss-120b,AUTHORED,1986,67,**1975**. It was released as the Seiko 6005‑5000 “1000 m Pro,1978,What year did Seiko release their first 1000m diver watch?
+64,sq200,allam-2-7b,AUTHORED,1986,76,"1965. This model is known as the Seiko 6139-6000, which was ",1972,What year did Seiko release their first 1000m diver watch?
+65,sq200,qwen/qwen3.6-27b,AUTHORED,1986,48,"**1975**. The model was the 6159-7010, widely known as the o",1975,What year did Seiko release their first 1000m diver watch?
+66,sq21,allam-2-7b,AUTHORED,Robert Smalls,96,"John R. Lynch, in 1867. Lynch was a prominent figure during ",Hiram Rhodes Revels,The Republican Party of South Carolina was co-founded by which African American in 1867?
+67,sq23,allam-2-7b,AUTHORED,"July 24, 1995",21,"a fictional character from the animated television series ""T",a fictional character from The Adventures of Superman,"What day, month, and year was Vladislav Kaborda born?"
+68,sq24,qwen/qwen3.6-27b,AUTHORED,8,69,"**10.5 minutes** to reach 6,000 feet according to its offici",10.5 minutes,How many minutes did the Fairey Albacore with Taurus XII used in World War II take to reach 6000 feet altitude in its time to altitude specification?
+69,sq25,qwen/qwen3.6-27b,AUTHORED,3:34,39,**3 minutes and 11 seconds** long. (Note: Streaming platform,3 minutes and 11 seconds,"How many minutes and seconds is Karan Aujla's song ""It Ain't Legal""?"
+70,sq26,allam-2-7b,AUTHORED,Alexa,116,"Dr. Patel, who serves as Devon's midwife throughout the show",Dr. Ramirez,Who is Devon's midwife in Season 1 of Severance?
+71,sq26,qwen/qwen3.6-27b,AUTHORED,Alexa,9,**no named midwife character** for Devon Hale in Season 1 of,a midwife named Ms. Cobel,Who is Devon's midwife in Season 1 of Severance?
+72,sq27,allam-2-7b,AUTHORED,The Shell Ultra Helix Cup.,53,the Nedbank Cup trophy. The Nedbank Cup is a South African f,Nedbank Cup trophy,"What trophy was won on October 12, 2019, by Kaizer Chiefs Football Club?"
+73,sq30,allam-2-7b,AUTHORED,Jack Washington,112,Milt Jackson. He is best known for his work with the Modern ,Marshal Royal,Who played baritone saxophone on the 1958 album *Basie Reunion*?
+74,sq32,allam-2-7b,AUTHORED,Musashi High School,104,"Kwansei Gakuin University in Japan. After graduating, he wen",Waseda University,What high school did Kenkichi Iwasawa attend?
+75,sq32,qwen/qwen3.6-27b,AUTHORED,Musashi High School,26,"**Tokyo Higher School** (東京高等學校, *Tōkyō Kōtō Gakkō*), a pres",Tokyo Higher School,What high school did Kenkichi Iwasawa attend?
+76,sq33,allam-2-7b,AUTHORED,Soft Construction with Boiled Beans,37,"""The Persistence of Memory,"" created by Salvador Dalí in 193",The Persistence of Memory,"Which Salvador Dalí painting was described as ""a vast human body breaking out into monstrous excrescences of arms and legs tearing at one another in a delirium of auto-strangulation""?"
+77,sq34,openai/gpt-oss-120b,AUTHORED,Crawling King Snakes,72,"**Band of Joy**. (At the time, Bonham was playing drums with",The Yardbirds,What was the name of the band in which Robert Plant met John Bonham?
+78,sq34,allam-2-7b,AUTHORED,Crawling King Snakes,58,Led Zeppelin. They formed the iconic music partnership in 19,The Yardbirds,What was the name of the band in which Robert Plant met John Bonham?
+79,sq36,openai/gpt-oss-120b,AUTHORED,Chamotte,22,"**alumina (corundum, i.e., aluminum oxide)** as the material",silica sand,"In the Method of Counteracting Shrinkage section of the 1900 report ""Clays of New York, Their Properties and Uses,"" which specific substance is described as possessing all the advantages of quartz as a diluent of shrinkage but has the advantage over it that it does not affect the fusibility of the clay?"
+80,sq37,openai/gpt-oss-120b,AUTHORED,The Bunka Fashion College,43,"the **Kobayashi Dressmaking School (小林洋裁学校)**.  
+
+- **Founde",Tokyo Sewing Academy,What is the name of the first dressmaking school in Japan?
+81,sq37,allam-2-7b,AUTHORED,The Bunka Fashion College,48,"""Tadao Yonezawa Seitō Kōkō"" (堂安雄学校). Established in 1924, it",Dressmaker Gakuin,What is the name of the first dressmaking school in Japan?
+82,sq39,allam-2-7b,AUTHORED,Aab gosh,105,"""Khubani Maaz."" Khubani refers to the main ingredient, which",Doodh Ras,"What is the other name for dodhe maaz, a Kashmiri milk-based curry cooked in spices and ghee over a low flame?"
+83,sq40,allam-2-7b,AUTHORED,9 September 1996,64,January 2018 during the Mobile World Congress (MWC) held in ,14 October 1996,"In which year, month, and day was the Nokia 8110 announced?"
+84,sq43,openai/gpt-oss-120b,AUTHORED,98,95,**five deaths**. The outbreak affected roughly a thousand pe,twelve deaths,How many deaths were caused by an amoebic dysentery outbreak at the Century of Progress World's Fair?
+85,sq49,openai/gpt-oss-120b,AUTHORED,Barbie,75,"**Rubik’s Cube**. The collection’s color‑blocking, geometric",Lego brick,Maison Margiela's Fall-Winter 1994 collection was inspired by what toy?
+86,sq5,openai/gpt-oss-120b,AUTHORED,MACHINE GIRL VS MACHINE GIRL,26,"**“UFO.”**  
+
+- **Title:** UFO  
+- **Release year:** 2016 (M",WLFGRL,What EP did Machine Girl release in 2016?
+87,sq50,allam-2-7b,AUTHORED,"1 year, 161 days",77,"November 27, 1987, to February 26, 1991. To calculate his te","March 12, 1985, to August 20, 1986","What was the length of Prafullachandra Natwarlal Bhagwati's tenure as the Chief Justice of India, in years and days?"
+88,sq51,allam-2-7b,AUTHORED,Sir Joshua Reynolds,42,"American business magnate, philanthropist, and writer, John ",John D. Rockefeller,Whose famous quotation did Thomas Edison have displayed on a placard over his desk?
+89,sq52,allam-2-7b,AUTHORED,Two.,79,did not have any children of his own. He was the founder of ,had three children,How many children did gay rights activist Morris Kight have?
+90,sq59,allam-2-7b,AUTHORED,2,69,"Ginsberg, the landlady they believed to be a mean and gruff ",three times,How many times in the same episode did Phoebe Buffay impersonate Estelle after she died?
+91,sq62,openai/gpt-oss-120b,AUTHORED,Apothecary,83,**Church of England clergyman**. He served as a rector (nota,naval surgeon,What did the father of William Holwell Carr do for a living?
+92,sq62,allam-2-7b,AUTHORED,Apothecary,31,"Rev. John Carr, was an English clergyman and academic. He se","Rev. Thomas Carr, was a schoolmaster",What did the father of William Holwell Carr do for a living?
+93,sq63,qwen/qwen3.6-27b,AUTHORED,"June 4, 2021",95,**1996**. (Specific month releases for this compilation can ,1996,"What month and year was the album ""Introspective"" released by Inner Ear Records?"
+94,sq65,allam-2-7b,AUTHORED,2020,170,Nelson Mandela in 1988. ,Desmond Tutu in 2015,"In which year was the first person awarded the ""Pillar of Peace"" Award?"
+95,sq67,allam-2-7b,AUTHORED,"""Visual Sexuality: Only Half the Picture""",104,"""Faces and Phases,"" which premiered in 2011 at the Goodman G",Faces and Phases,What is the name of Zanele Muholi's first solo exhibition?
+96,sq7,allam-2-7b,AUTHORED,Dr Arnavaz Havewalla,138,Dr. Muffazal Lakdawala. He was a well-known plastic and reco,Dr. Farokh Erach Udwadia,Name the dentist who died in May 2019 after being injured in an elevator crash at the Dr. Bhau Daji Lad Museum (BDL) in Mumbai on April 28.
+97,sq7,qwen/qwen3.6-27b,AUTHORED,Dr Arnavaz Havewalla,16,**Dr. Prashant Kulkarni**. He succumbed to his injuries on M,Dr. Prashant Kulkarni,Name the dentist who died in May 2019 after being injured in an elevator crash at the Dr. Bhau Daji Lad Museum (BDL) in Mumbai on April 28.
+98,sq70,openai/gpt-oss-120b,AUTHORED,Ichisuke Fujioka,73,**Kiyoshi Takahashi (高橋清)** in 1883. Working for the newly‑e,Shoichi Tanaka,Who developed Japan’s first arc lamp?
+99,sq70,allam-2-7b,AUTHORED,Ichisuke Fujioka,89,Kakuzo Okakura. He invented the lamp in 1872 while he was wo,Sakichi Toyoda,Who developed Japan’s first arc lamp?
+100,sq70,qwen/qwen3.6-27b,AUTHORED,Ichisuke Fujioka,57,**Hirayama Goro** (平山五郎) in 1875. A pioneering Japanese elec,Kenjiro Takayanagi,Who developed Japan’s first arc lamp?
+101,sq71,allam-2-7b,AUTHORED,"Fried, Frank, Harris, Shriver & Jacobson",47,National Action Network (NAN) from 2013 to 2015 in New York ,NAACP Legal Defense Fund,What company was Natasha Merle a civil rights fellow at from 2013 to 2015 in New York City?
+102,sq80,allam-2-7b,AUTHORED,Robert H. Dicke.,38,John Archibald Wheeler. He is associated with the coining of,Kip S. Thorne,"Marcia Bartusiak traces the term ""black hole"" to which physicist (first name, middle initial, and surname), who reportedly compared the phenomenon in the early 1960s to the Black Hole of Calcutta, a notorious prison where people entered but never left alive?"
+103,sq86,openai/gpt-oss-120b,AUTHORED,13 Nov 2007,163,**24 June 2008**.,27 March 2007,"What day, month, and year did the patch from The Burning Crusade expansion of World of Warcraft reduce the cooldown of Crusader Strike from 10 to 6 seconds?"
+104,sq89,allam-2-7b,AUTHORED,I'm not giving up on you,227,"""You're not ready for this. You can't handle the truth. But ","""Time to play, little piggy.""",What quote did Dr. Richard Trager say to Miles Upshur while opening the elevator door right before he died in the 2013 video game Outlast?
+105,sq90,allam-2-7b,AUTHORED,Shirley Jeffrey,120,"Sir John Pendry, a British physicist and professor at Imperi",Elisabeth Gantt,Which scientist received the Gilbert Morgan Smith Medal in 2000?
+106,sq91,allam-2-7b,AUTHORED,1985,63,the Marshall Islands and Micronesia in 1986. In the United S,1986,"In what year was the Compact of Free Association approved by plebiscites in the Marshall Islands and Micronesia, and by the U.S. Congress?"
+107,sq93,allam-2-7b,AUTHORED,"Laerryn Coramar-Seelie, played by Aabria Iyengar",174,Vex'ahlia. Vex'ahlia is also a player who co-created the cha,"Fjord, played by Travis Willingham","Which player character in Exandria Unlimited: Calamity was Sam Riegel's character, Loquatius, previously married to, and who was that character's player?"
+108,sq98,allam-2-7b,AUTHORED,Manetue,70,"""Burr Oak"". It was later renamed to ""Addison"" in 1857 after ",Burr Oak,"What was the original settlement name of the village of Addison, Michigan?"
+109,sq98,qwen/qwen3.6-27b,AUTHORED,Manetue,70,**Hartford** (sometimes referred to as Hartford Center). It ,Hartford,"What was the original settlement name of the village of Addison, Michigan?"
+110,sq99,allam-2-7b,AUTHORED,Harold Emms,56,"Coco Chanel. She was a French fashion designer, and Coco was",Charles Emms,What was the name of male impersonator Hetty King's half-brother?
+111,sq112,allam-2-7b,DROPPED_NONCOMMIT,5,,,,How many performances did “Tristan and Isolde” receive at the Metropolitan Opera House in the 1889-1890 season?
+112,sq125,allam-2-7b,DROPPED_NONCOMMIT,Kyarorina,,,,Who was the first person to catch 1 million Pokémon in Pokémon Go?
+113,sq138,allam-2-7b,DROPPED_NONCOMMIT,10.1515/cog-2017-0069,,,,What's the DOI of the paper 'Towards an Explanation of the Syntax of West Germanic Particle Verbs: A Cognitive-Pragmatic View' by Thomas Berg?
+114,sq140,allam-2-7b,DROPPED_NONCOMMIT,Urey,,,,What is the surname of the individual who won the Liversidge Award in 1946?
+115,sq145,allam-2-7b,DROPPED_NONCOMMIT,Charlie Brooker,,,,Who was the first recipient of the Nebula Award for Best Game Writing?
+116,sq15,openai/gpt-oss-120b,DROPPED_NONCOMMIT,10.1515/zfs-2021-2039,,,,"Give me the DOI of the paper ""New avenues and challenges in semantic map research."""
+117,sq15,allam-2-7b,DROPPED_NONCOMMIT,10.1515/zfs-2021-2039,,,,"Give me the DOI of the paper ""New avenues and challenges in semantic map research."""
+118,sq156,allam-2-7b,DROPPED_NONCOMMIT,Dimitris Sotiriou,,,,"Who did the choreography for the play ""Helen"" at the 2022 Athens Epidaurus Festival?"
+119,sq158,allam-2-7b,DROPPED_NONCOMMIT,200.00,,,,What was the strike rate of Harbhajan Singh in the final match of IPL 2015?
+120,sq195,allam-2-7b,DROPPED_NONCOMMIT,Leon Mestel,,,,Who won the Eddington Medal in 1993?
+121,sq43,allam-2-7b,DROPPED_NONCOMMIT,98,,,,How many deaths were caused by an amoebic dysentery outbreak at the Century of Progress World's Fair?
+122,sq46,allam-2-7b,DROPPED_NONCOMMIT,"""Saint-Gral Labyrinth""",,,,What is the name of track number 6 on disc 1 of the Sen no Kiseki IV - The End of Saga - original soundtrack?
+123,sq69,allam-2-7b,DROPPED_NONCOMMIT,2006,,,,What was the year when Cléo Hamon began learning to skate?
+124,sq8,allam-2-7b,DROPPED_NONCOMMIT,Forbes,,,,What is the surname of the individual who won the Victor A. Prather Award in 1968?
+125,sq84,allam-2-7b,DROPPED_NONCOMMIT,Debbie Allen,,,,"Who directed ""Range of Emotions,"" Season 8, Episode 1 of ""Girlfriends""?"
+126,sq92,openai/gpt-oss-120b,DROPPED_NONCOMMIT,"Causation, Multidimensional Scaling, Graph theory, Cluster analysis, Parallel corpus",,,,"What are the five keywords of the paper ""Semantic Maps of Causation: New Hybrid Approaches Based on Corpora and Grammar Descriptions"" as of its publication on June 9, 2022?"
+127,sq92,allam-2-7b,DROPPED_NONCOMMIT,"Causation, Multidimensional Scaling, Graph theory, Cluster analysis, Parallel corpus",,,,"What are the five keywords of the paper ""Semantic Maps of Causation: New Hybrid Approaches Based on Corpora and Grammar Descriptions"" as of its publication on June 9, 2022?"

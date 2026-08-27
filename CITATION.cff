@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "P3 — The Commitment Test: prefix-substitution test for commitment-driven hallucination in large language models"
+type: software
+authors:
+  - given-names: "Md. Rejaul Korim"
+    family-names: "Sadi"
+    orcid: "https://orcid.org/0009-0004-1116-2985"
+    affiliation: "Metropolitan University, Sylhet, Bangladesh"
+  - given-names: "Toufiqur Rahman"
+    family-names: "Tasin"
+    orcid: "https://orcid.org/0009-0008-4503-8965"
+    affiliation: "Metropolitan University, Sylhet, Bangladesh"
+repository-code: "https://github.com/RejaulKorimSadi/P3-Commitment-Hallucination-Test"
+version: "1.0.0"
+date-released: "2026-08-27"
+license: MIT
+keywords:
+  - large-language-models
+  - hallucination
+  - autoregressive-decoding
+  - exposure-bias
+  - factuality
+  - simpleqa
